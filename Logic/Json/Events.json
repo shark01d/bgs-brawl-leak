@@ -1,0 +1,71 @@
+[
+     {
+         "ID": 8,
+         "Status": 1,
+         "Tokens": 10,         
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 45,
+         "Status": 1,
+         "Tokens": 10,
+         "Ended": false,
+         "Modifier": 5,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 256,
+         "Status": 1,
+         "Tokens": 10,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 159,
+         "Status": 1,
+         "Tokens": 10,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 46,
+         "Status": 1,
+         "Tokens": 10,
+         "Ended": false,
+         "Modifier": 5,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 295,
+         "Status": 1,
+         "Tokens": 10,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+     {
+         "ID": 324,
+         "Status": 1,
+         "Tokens": 10,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+     {
+         "ID": 229,
+         "Status": 1,
+         "Tokens": 10,
+         "Ended": false,
+         "Modifier": 1,
+         "Timer": 86400
+     }
+]        
